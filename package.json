@@ -1,0 +1,20 @@
+{
+  "name": "testproject1",
+  "version": "1.0.0",
+  "description": "A simple Node.js API with three subpaths and two endpoints per subpath.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "http"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
